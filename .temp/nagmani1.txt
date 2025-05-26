@@ -1,0 +1,100 @@
+Advocaat: Atfokat, Liqueur containing rum and raw eggs  
+Apatetic: Apatetik, Of an animal's coloration or markings  
+Aphemia: Afemia, Loss of ability to produce articulate speech  
+Aphrodisiomania: Afrotiksiomania, Abnormal sexual interest  
+Basilicon: Basilikon, Kind of ointment  
+Batraquomancy: Batrakuomans, Divination using frogs  
+Belvedere: Belfetere, Raised covered terrace or pavilion  
+Biognosy: Bioknos, General study or theory of life  
+Caboched: Kabokshet, Heraldic animal shown in full face with no neck or body  
+Cartomancy: Kartomans, Telling fortunes using playing cards  
+Catastasis: Katastasis, Part of drama with highest action; climax   
+Chessel: Shesel, Cheese-mould  
+Daboya: Taboya, Large Indian viper  
+Dealate: Tealate, Insect divested of its wings  
+Diffident: Tifitent, Overly shy or modest  
+Egyptology: Ejptoloj, Study of ancient Egypt  
+Embryogenesis: Embryojenesis, Production of an embryo  
+Epipastic: Epipastik, Dusting powder used in medicine  
+Escadrille: Eskatrile, Squadron of aircraft; flotilla  
+Eumoiriety: Eumoiriet, Happiness due to state of innocence and purity  
+Ferriferous: Feriferous, Bearing iron  
+Fideicide: Fiteisite, Killer of faith; one who breaks a trust  
+Figuline: Fikuline, Of, like or pertaining to earthenware  
+Fimetic: Fimetik, Of, like or pertaining to dung  
+Forefoot: Forefot, Foremost end of ship's keel  
+Galbanum: Kalbanum, Nonsense; a kind of gum resin  
+Galeiform: Kaleiform, Shaped like a helmet  
+Gemmate: Jemate, To deck with gems  
+Gemmology: Jemoloj, Study of gems and jewels  
+Girandole: Jirantole, Branched chandelier or similar structure  
+Gurlet: Kurlet, Pickaxe with one pointed and one bladed end  
+Halitous: Halitous, Vaporous  
+Heteronomous: Heteronomous, Subject to different or foreign laws  
+Hippophagy: Hipofaj, Feeding on horses  
+Homiletics: Homiletiks, The art of preaching  
+Humanism: Humanism, Belief that human interests and mind are paramount  
+Hydrobiology: Htrobioloj, Study of aquatic organisms  
+Immortelle: Imortele, Everlasting dried flower  
+Inhaust: Inhaust, To drink in  
+Isoline: Isoline, Line connecting points on a map having some similar feature  
+Jackanapes: Jakanapes, Impudent child; conceited fellow  
+Jaleo: Jaleo, Lively Spanish dance  
+Ketch: Ketksh, Small two-masted sailing vessel  
+Krobylos: Kroblos, Tuft of hair on the top of the head  
+Lachrymogenic: Lakshrmojenik, Causing tears or weeping  
+Largition: Larjixion, Giving of largess  
+Malm: Malm, Calcareous loam used in making brick  
+Marigraph: Marikraf, Instrument for recording tide levels  
+Minatory: Minator, Threatening  
+Mobocracy: Mobokras, Government by mobs or crowds  
+Moniliform: Moniliform, Shaped like a string of beads  
+Monocarpic: Monokarpik, Producing fruit only once  
+Monostrophe: Monostrofe, Poem in which all stanzas share an identical structure  
+Muscoid: Muskoit, Of, like or pertaining to mosses; moss-like  
+Nobiliary: Nobiliar, Of, like or pertaining to nobility  
+Odontomancy: Otontomans, Divination using teeth  
+Onymous: Onmous, Bearing the author's name  
+Papyrology: Paproloj, Study of paper  
+Pasquilant: Paskuilant, Lampooner  
+Perlustrate: Perlustrate, To traverse and inspect carefully  
+Phonasthenia: Fonasthenia, Weakness of voice  
+Projectionism: Projekxionism, Theory that some apparent qualities of reality are projections of the mind  
+Qua: Kua, In the capacity of   
+Quadratura: Kuatratura, Wall or ceiling painted with arches and columns in strong perspective  
+Quamoclit: Kuamoklit, Tropical climbing plant with brilliant flowers  
+Quarender: Kuarenter, Dark red apple  
+Quidnunc: Kuitnunk, Busybody; one keenly interested in gossip  
+Quiniferous: Kuiniferous, Yielding quinine  
+Quinquagesimal: Kuinkuajesimal, Belonging to a set of fifty  
+Radicle: Ratikle, Rootlike organ or part  
+Ranivorous: Raniforous, Eating frogs  
+Raptus: Raptus, Trance; rapture; seizure  
+Roriferous: Roriferous, Producing or bearing dew  
+Solfatara: Solfatara, Volcanic vent emitting only gases  
+Spurtle: Spurtle, Scottish stirring stick for porridge  
+Sussultatory: Susultator, Characterized by large up-and-down vibrations  
+Synoptic: Snoptik, Of or giving a synopsis or summary  
+Teutomania: Teutomania, Obsession with Teutonic or German things  
+Thalerophagous: Thalerofakous, Feeding on fresh vegetable matter  
+Tomograph: Tomokraf, Instrument for viewing section of an object using X-rays  
+Tranect: Tranekt, Ferry  
+Trangam: Trankam, Showy or worthless article  
+Undeify: Unteif, To deprive of the nature of a god  
+Univocal: Unifokal, Unmistakeable; unequivocal  
+Unligable: Unlikable, Unable to be bound together  
+Upwith: Upwith, Up along  
+Urimancy: Urimans, Divination by observing urine  
+Whiskerando: Wiskeranto, A whiskered person  
+Whither: Wither, To what place  
+Windlestraw: Wintlestra, Anything light or insubstantial; feeble person  
+Woolbird: Wolbirt, Sheep  
+Xanthoma: Santhoma, Disease characterized by yellow patches on the skin  
+Xenodiagnosis: Senoxiaknosis, Diagnosis of disease by allowing laboratory-bred diseases to affect material  
+Xiphoid: Sifoit, Sword-shaped  
+Yarborough: Yarborouf, Hand of cards containing no card above nine  
+Yewen: Yewen, Made of yew-wood  
+Zapateado: Sapateato, Latin-American dance with rhythmic tapping of the feet  
+Zarzuela: Sarzuela, Traditional Spanish vaudeville show; fish and shellfish stew  
+Zoograft: Sokraft, Tissue from an animal grafted to a human  
+Zoonosis: Sonosis, Disease of animals which can be transmitted to humans  
