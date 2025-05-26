@@ -3,6 +3,14 @@
 A high-performance, concurrent REST API server built in Rust for generating, managing, and serving dictionaries using data from the [Random Words API](https://random-words-api.vercel.app/word).
 
 ---
+## Requirements
+Rust Version: >=1.83.0
+```rust
+rustc --version
+cargo --version
+```
+
+---
 ## Run application
 ```rust
 cargo run
