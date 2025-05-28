@@ -59,9 +59,17 @@ cargo build
 }
 ```
 
+- **Response**:
+```json
+{
+  "message": "Dictionary generation started",
+  "status": true
+}
+```
+
 ### 2. **Check Dictionary Status**
 - `GET /api/v1/dict/{dict_name}/status`
-- **Body**:
+- **Response**:
 ```json
 {
   "message": "Dictionary exist",
